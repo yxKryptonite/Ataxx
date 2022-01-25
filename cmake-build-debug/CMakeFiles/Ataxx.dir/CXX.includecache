@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kuangyuxuan/CLionProjects/Ataxx/func.cpp
+iostream
+-
+func.h
+/Users/kuangyuxuan/CLionProjects/Ataxx/func.h
+cmath
+-
+unistd.h
+-
+fstream
+-
+map
+-
+string
+-
+
+/Users/kuangyuxuan/CLionProjects/Ataxx/func.h
+
